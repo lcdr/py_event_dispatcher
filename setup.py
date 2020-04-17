@@ -7,7 +7,7 @@ setup(
 	version="0.1.0",
 	description="Simple event dispatcher for indirect calling of listeners.",
 	author="lcdr",
-	url="https://bitbucket.org/lcdr/event_dispatcher/",
+	url="https://github.com/lcdr/event_dispatcher/",
 	license="GPL v3",
 	packages=["event_dispatcher"],
 	python_requires=">=3.6",
